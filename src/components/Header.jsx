@@ -29,9 +29,9 @@ const Header = () => {
               <a href="/#About" className="nav-link text-white no-underline">
                 About
               </a>
-              <a href="/#why-us" className="nav-link text-white no-underline">
+              {/* <a href="/#why-us" className="nav-link text-white no-underline">
                 Why Us
-              </a>
+              </a> */}
               <a
                 href="/#Tokenomics"
                 className="nav-link text-white no-underline"
