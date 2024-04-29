@@ -36,7 +36,7 @@ const Header = () => {
                 href="/#Tokenomics"
                 className="nav-link text-white no-underline"
               >
-                Tokenomics
+                Tokenomic
               </a>
               <a href="/#Roadmap" className="nav-link text-white no-underline">
                 Roadmap
