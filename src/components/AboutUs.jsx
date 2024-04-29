@@ -11,8 +11,8 @@ const AboutUs = () => {
         />
       </div>
       <div className="flex-1 flex flex-col justify-center mq450:items-center items-center">
-        <h1 className="gap-x-3 font-text-heading">
-          <span className="text-white">About</span>
+        <h1 className="gap-x-3 font-text-heading mq450:text-21xl mq925:text-21xl text-61xl">
+          <span className="text-color-primary-color-2">About</span>
           <span className="text-gradient ml-2">Us</span>
         </h1>
         <div className="self-stretch relative text-5xl text-center font-text-body-2 text-color-text-color z-[1] ">
