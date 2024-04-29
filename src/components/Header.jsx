@@ -149,6 +149,18 @@ const MobileHeader = () => {
                 Roadmap
               </a>
             </li>
+            <li>
+              <a
+                href="https://drive.google.com/file/d/1TITa0m9fxI4D0auqrhCF5Snx03faieA2/view?usp=sharing"
+                target="_blank"
+              >
+                <button className="cursor-pointer py-3.5 px-[47px] bg-[transparent] rounded-xl flex flex-row z-[2] border-[1px] border-solid border-color-primary-color-2 hover:bg-deepskyblue-200 hover:box-border hover:border-[1px] hover:border-solid hover:border-deepskyblue-100">
+                  <div className="relative text-xl leading-[150%] font-medium font-text-body-2 text-color-primary-color-2 text-center inline-block min-w-[119px] mq450:text-base mq450:leading-[24px]">
+                    Whitepaper
+                  </div>
+                </button>
+              </a>
+            </li>
           </ul>
         </div>
       </div>
